@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7645e094-d7e4-4697-8e95-246cbb13a22b" width="200">
-![management guru logo](https://github.com/user-attachments/assets/7645e094-d7e4-4697-8e95-246cbb13a22b)
+  <img src="https://github.com/user-attachments/assets/7645e094-d7e4-4697-8e95-246cbb13a22b" width="300">
 # Management-Guru
 Management insights from Peter Drucker and Jack Welch, two renowned executives of corporate America
 # 📊 Management Guru

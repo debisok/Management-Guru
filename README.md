@@ -2,9 +2,6 @@
   <img src="https://github.com/user-attachments/assets/7645e094-d7e4-4697-8e95-246cbb13a22b" width="300">
 </p>
 # Management-Guru
-Management insights from Peter Drucker and Jack Welch, two renowned executives of corporate America
-# 📊 Management Guru
-
 **Management Guru** is an interactive Streamlit web app that delivers timeless leadership and management insights from two legendary thinkers: **Peter Drucker** and **Jack Welch**.
 
 ## 🚀 Features

@@ -1,3 +1,4 @@
+![Management Guru Logo](https://files.oaiusercontent.com/file-000000009c9c51f694e2bec75cbfec81/sandbox/Management_Guru_Logo.png)
 # Management-Guru
 Management insights from Peter Drucker and Jack Welch, two renowned executives of corporate America
 # 📊 Management Guru

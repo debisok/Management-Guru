@@ -4,7 +4,7 @@ from io import BytesIO
 from fpdf import FPDF
 import pandas as pd
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide") # ✅ ABSOLUTELY FIRST STREAMLIT COMMAND
 
 # Expanded knowledge base with more insights
 knowledge_base = [

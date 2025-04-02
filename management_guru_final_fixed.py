@@ -4,6 +4,8 @@ from io import BytesIO
 from fpdf import FPDF
 import pandas as pd
 
+st.set_page_config(layout="wide")
+
 # Expanded knowledge base with more insights
 knowledge_base = [
     {"thinker": "Peter Drucker", "topic": "Management by Objectives", "insight": "What gets measured gets managed. Define success in terms of contribution, not control.", "source": "The Practice of Management"},
